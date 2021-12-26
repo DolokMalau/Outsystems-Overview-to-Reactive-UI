@@ -1,9 +1,8 @@
-# Outsystems-Overview-to-Reactive-UI<br>
+# Outsystems-Reactive_Web_Developer<br>
 <br>
 :smile: ⏯️
-Excercise 1 : https://youtu.be/0sMugzvBayc<br>
-:smile:
-⏯️
-Excercise 2 : https://youtu.be/8zttUOLDqTg
+<a href ="https://youtu.be/0sMugzvBayc" target ="blank">Excercise 1</a><br>
+:smile: ⏯️
+<a href ="https://youtu.be/0sMugzvBayc" target ="blank">Excercise 2</a><br>
 <br><br>
 Lanjutan dari Outsystem ini ada pada repo ini : https://github.com/DolokMalau/Outsystems-Lanjutan.git
